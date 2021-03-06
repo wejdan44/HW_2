@@ -44,6 +44,7 @@ dim(nobel)
     ## [1] 935  26
 
 Each row represents information about a nobel prize winner.
+Observation:935 Varibles:26
 
 2.  Create a new data frame called `nobel_living` that filters for
 

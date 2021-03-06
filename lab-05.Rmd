@@ -46,8 +46,9 @@ nobel <- read_csv("data/nobel.csv")
 ```{r}
 dim(nobel)
 ```
-
 Each row represents information about a nobel prize winner.
+Observation:935
+Varibles:26
 
 2.  Create a new data frame called `nobel_living` that filters for
 
