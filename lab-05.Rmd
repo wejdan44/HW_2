@@ -3,11 +3,11 @@ title: "Lab 05 - Nobel laureates"
 output: github_document
   
 ---
-Team Name:
+Team Name:Ds5
 
 Team Members - Name and Student ID
 
-1.
+1. Wejdan awad 2201002744 
 
 2.
 
