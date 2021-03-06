@@ -112,7 +112,7 @@ orientation="horizontal")
 4.  Create a new variable called `born_country_us` that has the value `"USA"` if the laureate is born in the US, and `"Other"` otherwise.
     How many of the winners are born in the US?
 
-
+USA 105
 ```{r}
 
 ```
